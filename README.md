@@ -2,6 +2,10 @@
 
 I am Dikshant, a senior undergraduate student from Indian Institute of Technology, Bombay.
 
+<p width="50%" align="left"> 
+<img src = "https://github-readme-stats.vercel.app/api?username=Dikshuy&show_icons=true&theme=tokyonight&line_height=27">
+</p>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant&label=Profile%20views&color=129e00&style=plastic"/> </p>
 
 <!-- - 🔭 I’m currently working on ...
