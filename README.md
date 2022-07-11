@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dikshant, a senior undergraduate student from Indian Institute of Technology, Bombay.
+I am Dikshant, a undergraduate student from Indian Institute of Technology, Bombay. I will be joining Honda Japan as an AI researcher soon.
 
 <p width="50%" align="left"> 
 <img src = "https://github-readme-stats.vercel.app/api?username=Dikshuy&show_icons=true&theme=tokyonight&line_height=27">
