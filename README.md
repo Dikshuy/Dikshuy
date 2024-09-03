@@ -1,10 +1,23 @@
-### Hi there 👋
+### Hey there! I'm Dikshant! 👋
 
-I am Dikshant, an undergrad from Indian Institute of Technology, Bombay. I am currently working as an AI Researcher at HGRX, Honda Japan, Tokyo.
+I’m a Master’s student in Computer Science at the **University of Alberta!** Before this, I did my undergrad from **Indian Institute of Technology Bombay** and worked as an AI Researcher at HGRX, **Honda Japan** in Tokyo.🚀
+
+### Let's Play! ⚽🏸🏏🏓
+
+Are you into sports? Let's connect! I’m always up for a game—whether it's **soccer, badminton, cricket, table tennis, or any outdoor sport**! Shoot me a message, and let’s team up!
+
+### Let's Connect!
+
+- **GitHub**: Check out my repos and let's build something awesome together!
+- **Email**: Feel free to reach out if you're interested in AI, collaboration, or just want to chat about sports! [drop me a message](ddikshan@ualberta.ca)
+
+####  Feel free to contact anytime :smile:
+---
 
 For privacy purposes, all the further commits involving Honda repos will be done on different username: `dikshant-honda`
 
-Feel free to contact anytime :smile:
+---
+
 <!--
 <p width="50%" align="left"> 
 <img src = "https://github-readme-stats.vercel.app/api?username=Dikshuy&show_icons=true&theme=tokyonight&line_height=27">
@@ -21,4 +34,4 @@ Feel free to contact anytime :smile:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Last update: 22/12/2022
+Last update: 03/09/2024
