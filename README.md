@@ -2,16 +2,16 @@
 
 I’m a Master’s student in Computer Science at the **University of Alberta!** Before this, I did my undergrad from **Indian Institute of Technology Bombay** and worked as an AI Researcher at HGRX, **Honda Japan** in Tokyo.🚀
 
-### Let's Play! ⚽🏸🏏🏓
+#### Let's Play! ⚽🏸🏏🏓
 
 Are you into sports? Let's connect! I’m always up for a game—whether it's **soccer, badminton, cricket, table tennis, or any outdoor sport**! Shoot me a message, and let’s team up!
 
-### Let's Connect!
+#### Let's Connect!
 
 - **GitHub**: Check out my repos and let's build something awesome together!
-- **Email**: Feel free to reach out if you're interested in AI, collaboration, or just want to chat about sports! [drop me a message](ddikshan@ualberta.ca)
+- **Website**: Feel free to reach out if you're interested in AI, collaboration, or just want to chat about sports! You can find more details about me [here](https://dikshuy.github.io) :)
 
-####  Feel free to contact anytime :smile:
+####  Feel free to contact anytime :smile: 
 ---
 
 For privacy purposes, all the further commits involving Honda repos will be done on different username: `dikshant-honda`
