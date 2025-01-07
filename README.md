@@ -1,7 +1,11 @@
 ### Hey there! I'm Dikshant! 👋
 
-I’m a Master’s student in Computer Science at the **University of Alberta!** Before this, I did my undergrad from **Indian Institute of Technology Bombay** and worked as an AI Researcher at HGRX, **Honda Japan** in Tokyo.🚀
+I’m a Master’s student in Computer Science at the **University of Alberta** with [Matt Taylor](https://drmatttaylor.net)!
 
+I did my undergrad from **Indian Institute of Technology Bombay** and worked as an AI Researcher at **Honda Japan** in Tokyo for two years.
+
+You can find more details about me [here](https://dikshuy.github.io), feel free to contact anytime :smile: 
+<!--
 #### Let's Play! ⚽🏸🏏🏓
 
 Are you into sports? Let's connect! I’m always up for a game—whether it's **soccer, badminton, cricket, table tennis, or any outdoor sport**! Shoot me a message, and let’s team up!
@@ -10,11 +14,10 @@ Are you into sports? Let's connect! I’m always up for a game—whether it's **
 
 - **GitHub**: Check out my repos and let's build something awesome together!
 - **Website**: Feel free to reach out if you're interested in AI, collaboration, or just want to chat about sports! You can find more details about me [here](https://dikshuy.github.io) :)
-
-####  Feel free to contact anytime :smile: 
+-->
 ---
 
-For privacy purposes, all the further commits involving Honda repos will be done on different username: `dikshant-honda`
+For privacy purposes, all my Honda related work is under different username: `dikshant-honda`
 
 ---
 
@@ -34,4 +37,4 @@ For privacy purposes, all the further commits involving Honda repos will be done
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Last update: 03/09/2024
+Last update: 06/01/2025
