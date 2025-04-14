@@ -1,6 +1,6 @@
 ### Hey there! I'm Dikshant! 👋
 
-I’m a Master’s student in Computer Science at the **University of Alberta** with [Matt Taylor](https://drmatttaylor.net)!
+I’m a Master’s student in Computer Science at the **University of Alberta** with [Matt Taylor](https://drmatttaylor.net) and [Marlos Machado](https://webdocs.cs.ualberta.ca/~machado/index.html) !
 
 I did my undergrad from **Indian Institute of Technology Bombay** and worked as an AI Researcher at **Honda Japan** in Tokyo for two years.
 
